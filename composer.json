@@ -1,0 +1,13 @@
+{
+    "name": "koirala/composerdemo",
+    "description": "demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Koirala\\Composerdemo\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
